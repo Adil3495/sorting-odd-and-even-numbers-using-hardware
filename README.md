@@ -6,3 +6,7 @@ Ex:
 
 The output is :
 12 8 6 6 4 2 2 5 5 11
+
+Two testbench are included
+1) General testbench
+2) Self-checking testbench
